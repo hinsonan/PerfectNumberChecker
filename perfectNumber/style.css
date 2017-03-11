@@ -1,0 +1,39 @@
+html{
+    margin:0;
+    padding:0;
+    
+}
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    background-image: url(img/chalkboard.jpg);
+    background-size: cover;
+    
+    
+}
+.form-group{
+   width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 5em;
+
+}
+h1{
+    color: aliceblue;
+}
+.container{
+    background-color: rgba(51, 130, 67, 0.7);
+    margin-top: 225px;
+        
+    
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+img{
+    width: 30%;
+    
+}
